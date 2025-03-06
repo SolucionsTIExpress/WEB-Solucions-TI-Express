@@ -2,7 +2,7 @@ import "../styles/Pages.css"; // Archivo CSS para estilos de páginas
 
 const Contact = () => {
   return (
-    <div className="page-container contact">
+    <div className="contact">
       <div className="container mt-5">
         <h2 className="text-warning">Contáctanos</h2>
         <form>

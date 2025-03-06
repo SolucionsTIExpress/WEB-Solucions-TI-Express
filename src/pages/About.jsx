@@ -2,7 +2,7 @@ import "../styles/Pages.css"; // Archivo CSS para estilos de páginas
 
 const About = () => {
   return (
-    <div className="page-container about">
+    <div className="about">
       <div className="container mt-5">
         <h2 style={{ color: "#f2b537" }}>Sobre Nosotros</h2>
         <p className="text-white">
